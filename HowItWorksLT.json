@@ -1,0 +1,22 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "class": "monitor",
+      "title": "Sukurkite asmenines kategorijas",
+      "description": "Identify and avoid unnecessary medication purchases, offering users a cost-saving benefit that contributes to financial well-being."
+    },
+    {
+      "id": 2,
+      "class": "scan",
+      "title": "Isvesrti i lietuviu kalba",
+      "description": "Empower users to monitor medications inventory and receive timely expiration alerts. OptimKit ensures effective medication management, preventing the risk of running out of essential medicines and saving money in the process."
+    },
+    {
+      "id": 3,
+      "class": "real-time",
+      "title": "Real-time Expiry Tracking and Notifications",
+      "description": "See which medications and food supplements you have used in the past, find out what should you be taking now, and discover the current medications and food supplements you are using, all in one place."
+    }
+  ]
+}

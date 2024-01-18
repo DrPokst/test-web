@@ -1,0 +1,26 @@
+{
+  "title": "About Our App",
+  "description": "OptimKit mobile application aims to change medications management for individuals by providing a convenient and efficient solution to keep track of their medications and food supplements collection at home or on the go. Our goals are the following:",
+  "cards": [
+    {
+      "id": 1,
+      "title": "Cost-Saving Advantage",
+      "description": "Identify and avoid unnecessary medication purchases, offering users a cost-saving benefit that contributes to financial well-being."
+    },
+    {
+      "id": 2,
+      "title": "Promoting Sustainability",
+      "description": "Reduce medication waste for a greener future. Our app aids users in managing their home medication inventory, cutting unnecessary purchases and waste. It helps avoid unused or expired medications and reduces excess packaging disposal, promoting environmental responsibility."
+    },
+    {
+      "id": 3,
+      "title": "Efficient Medication Management",
+      "description": "Empower users to monitor medications inventory and receive timely expiration alerts. OptimKit ensures effective medication management, preventing the risk of running out of essential medicines and saving money in the process."
+    },
+    {
+      "id": 4,
+      "title": "Monitor Your Medication History",
+      "description": "See which medications and food supplements you have used in the past, find out what should you be taking now, and discover the current medications and food supplements you are using, all in one place."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Apie OptimKit",
+  "description": "Optimkit mobilioji aplikacija siekia pakeisti vaistų vartojimo tvarkymą asmenims, teikdama patogų ir efektyvų sprendimą stebėti savo vaistų ir maisto papildų kolekciją namuose ar kelyje. Mūsų tikslai yra:",
+  "cards": [
+    {
+      "id": 1,
+      "title": "Finansinė nauda",
+      "description": "Identifikuoti ir išvengti nereikalingų vaistų pirkimų, taip vartotojams suteikiant išlaidas mažinančią naudą, kuri prisideda prie finansinės gerovės."
+    },
+    {
+      "id": 2,
+      "title": "Tvarumo skatinimas",
+      "description": "Sumažinti vaistų atliekų kiekį žalesnei ateičiai. Mūsų programa padeda vartotojams tvarkyti namuose esančius vaistus, taip sumažinant nereikalingas pirkimus ir atliekas. Tai padeda išvengti nenaudojamų ar pasibaigusio galiojimo vaistų ir sumažina nereikalingų pakuočių šalinimą, skatinant aplinkos atsakingumą."
+    },
+    {
+      "id": 3,
+      "title": "Efektyvus vaistų valdymas",
+      "description": "Suteikti vartotojams galimybę stebėti vaistų atsargas ir gauti laiku pranešimus apie galiojimo pabaigos datą. OptimKit užtikrina efektyvų vaistų valdymą, neleidžiant pasibaigti būtiniausiems vaistams."
+    },
+    {
+      "id": 4,
+      "title": "Stebėkite inventoriaus istoriją",
+      "description": "Sužinokite, kokius vaistus ir maisto papildus vartojote praeityje, sužinokite, ką turėtumėte vartoti dabar, ir atsiminkite dabartinius vaistus ir maisto papildus, kuriuos vartojate, viskas vienoje vietoje."
+    }
+  ]
+}
