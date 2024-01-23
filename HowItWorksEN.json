@@ -3,20 +3,20 @@
     {
       "id": 1,
       "class": "monitor",
-      "title": "Cost-Saving Advantage",
-      "description": "Identify and avoid unnecessary medication purchases, offering users a cost-saving benefit that contributes to financial well-being."
+      "title": "Create Personalised Categories",
+      "description": "Access your medications swiftly by navigating through your personalized categories. Whether you're managing prescriptions or food supplements, our app ensures an organized and hassle-free experience, putting your health in your hands."
     },
     {
       "id": 2,
       "class": "scan",
-      "title": "Efficient Medication Management",
-      "description": "Empower users to monitor medications inventory and receive timely expiration alerts. OptimKit ensures effective medication management, preventing the risk of running out of essential medicines and saving money in the process."
+      "title": "Scan Barcode for Quick Input",
+      "description": "Accelerate the input process by scanning the barcode on your medication or food supplement package. Our app effortlessly retrieves essential information, saving you time and ensuring accuracy."
     },
     {
       "id": 3,
       "class": "real-time",
       "title": "Real-time Expiry Tracking and Notifications",
-      "description": "See which medications and food supplements you have used in the past, find out what should you be taking now, and discover the current medications and food supplements you are using, all in one place."
+      "description": "Optimize your inventory management with the addition of expiration dates and comprehensive tracking at your fingertips. Receive timely notifications for expiring medications, ensuring you stay informed and can promptly remove them from your inventory."
     }
   ]
 }
